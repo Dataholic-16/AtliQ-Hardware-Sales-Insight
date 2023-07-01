@@ -1,8 +1,6 @@
 # Sales_analytics
 Sales analytics with PowerBI. Data is been gathered from Codebasics Github Repo - https://github.com/codebasics/DataAnalysisProjects/tree/master/1_SalesInsights#sales-insights-data-analysis-project
 
-# SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer and import it.
-
 # Data Analysis Using SQL
 
 1. Show all customer records
