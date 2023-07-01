@@ -45,3 +45,12 @@ SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON trans
 
 Special Thanks to Mr. Dhaval Patel and codebasics for data and tutorial.
 
+# Dashboard Preview
+**Key Insights**
+![image](https://github.com/Dataholic-16/AtliQ-Hardware-Sales-Insight/assets/135443003/e247202d-38bc-4c9b-aaeb-60f90be9e8b9)
+**Profit Analysis**
+![image](https://github.com/Dataholic-16/AtliQ-Hardware-Sales-Insight/assets/135443003/136846b3-b93a-4616-8b4c-db59763a343a)
+**Performance Insights**
+![image](https://github.com/Dataholic-16/AtliQ-Hardware-Sales-Insight/assets/135443003/c9989548-3e82-4529-b0c3-001367e422a1)
+
+
