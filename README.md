@@ -49,7 +49,7 @@ Special Thanks to Mr. Dhaval Patel and codebasics for data and tutorial.
 
 **Key Insights**
 
-![image](https://github.com/Dataholic-16/AtliQ-Hardware-Sales-Insight/assets/135443003/24bc4afe-46ca-424a-b50b-1149ae2cbfe3)
+![image](https://github.com/Dataholic-16/AtliQ-Hardware-Sales-Insight/assets/135443003/ce55c8fa-8b69-4847-8cc4-502fce89ff44)
 
 
 **Profit Analysis**
